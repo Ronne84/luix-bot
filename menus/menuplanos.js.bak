@@ -1,0 +1,57 @@
+const menuplanos = (prefix) => {
+
+// NÃO APAGUE ESSE ${prefix}, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DO settings.json, da pasta dono, só pode altera a base de tudo, menos as definições, só se quiser apagar a definição completa. 	
+
+return `
+*╔═══❖•ೋ°  ཌ🤙ད  °ೋ•❖═══╗*
+          *ঔৣ͜͡ீ͜❥͜𝐋𝐔𝐈𝐗 𝐁𝐎𝐓 𝐕8.5 ू ፝͜❥*
+*╚═══❖•ೋ°  ཌ🤙ད  °ೋ•❖═══╝*
+
+*[💞]  BOT DE WHATSAPP 24H ON*
+*[💞]  SUPORTE 100% DISPONÍVEL*
+*[💞]  ORGANIZE SEU GRUPO*
+*[💞]  GERENCIE SEU GRUPO*
+*[💞]  PROTEJA SEU GRUPO*
+*[💞]  DEIXE SEU GRUPO MAIS ANIMADO*
+
+*____________ᬊᬁP L A N O Sᬊᬁ____________*
+
+*[💞] TESTE 1 DIA:* R$ 01,00
+*[💞] SEMANAL:* R$ 05,00
+*[💞] MENSAL:* R$ 15,00
+*[💞] ARQUIVOS:* R$ 30,00
+*[💞] PREMIUM* R$ 35,00
+
+*____________ᬊᬁPROTEÇÕESᬊᬁ____________*
+
+*[💞] ANTI-LINK*
+*[💞] ANTI-FAKE*
+*[💞] ANTI-CONTATO*
+*[💞] ANTI-LOCALIZAÇÃO*
+*[💞] ANTI-DOCUMENTO*
+*[💞] ANTI-VIDEO*
+*[💞] ANTI-IMAGEM*
+*[💞] ANTI-AUDIO*
+*[💞] ANTI-VIEWONCE*
+
+*____________ᬊᬁRECURSOSᬊᬁ____________*
+*[💞] CRIAR FIGURINHAS*
+*[💞] BAIXAR MÚSICAS*
+*[💞] BAIXAR VIDEOS*
+*[💞] ABRIR/FECHAR GRUPO COM TIME*
+*[💞] BAN & KICK*
+*[💞] BRINCADEIRAS*
+*[💞] COMANDOS +🔞*
+*[💞] FIGURINHAS INTERATIVAS*
+*[💞] ÁUDIOS DE AUTO-RESPOSTA*
+
+*____________ᬊᬁCONTRA-TEᬊᬁ____________*
+*[⚡] DONO OFICIAL:* *𝐋𝐔𝐈𝐗*
+*[⚡] CHAT:* wa.me/5516997227231
+*[⚡] INSTA:* @Luixx__mg
+
+*____________ᬊᬁঔৣ͜͡ீ͜❥͜𝐋𝐔𝐈𝐗 𝐁𝐎𝐓 𝐕8.5ू ፝͜❥ᬊᬁ____________*
+`
+
+}
+exports.menuplanos = menuplanos
