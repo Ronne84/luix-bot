@@ -1,5 +1,5 @@
 const gitdobot = (prefix) => {
-return`🥷💎 *『Esse bot foi criado pelo Luix Cria』* 💎🥷
+return`🥷💎 *『Roni』* 💎🥷
 `
 }
 
